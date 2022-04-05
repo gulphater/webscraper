@@ -1,0 +1,9 @@
+/home/shoh/kayf/WebScraper/WebScraper/obj/x86/Debug/WebScraper.csprojAssemblyReference.cache
+/home/shoh/kayf/WebScraper/WebScraper/obj/x86/Debug/WebScraper.csproj.CoreCompileInputs.cache
+/home/shoh/kayf/WebScraper/WebScraper/bin/Debug/WebScraper.exe
+/home/shoh/kayf/WebScraper/WebScraper/bin/Debug/WebScraper.pdb
+/home/shoh/kayf/WebScraper/WebScraper/bin/Debug/HtmlAgilityPack.dll
+/home/shoh/kayf/WebScraper/WebScraper/bin/Debug/HtmlAgilityPack.pdb
+/home/shoh/kayf/WebScraper/WebScraper/obj/x86/Debug/WebScraper.csproj.CopyComplete
+/home/shoh/kayf/WebScraper/WebScraper/obj/x86/Debug/WebScraper.exe
+/home/shoh/kayf/WebScraper/WebScraper/obj/x86/Debug/WebScraper.pdb

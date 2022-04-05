@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EA1F821E-9C39-4C0D-B0FD-D1B53A3B04F2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebScraper/ScrapingLogic.cs">
+    <Files>
+      <File FileName="WebScraper/Program.cs" Line="31" Column="2" />
+      <File FileName="WebScraper/ScrapingLogic.cs" Line="21" Column="53" />
+      <File FileName="WebScraper/packages.config" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebScraper" expanded="True">
+            <Node name="WebScraper" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="ScrapingLogic.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebScraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
